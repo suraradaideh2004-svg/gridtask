@@ -1,0 +1,13 @@
+.ggrrid{
+    width: 600px;
+    height: 140px;
+display: grid;
+grid-template-columns: repeat(3,200px);
+grid-template-rows: repeat(2,70px);
+
+
+
+}
+.box{
+    background-color: bisque;
+}
