@@ -1,0 +1,16 @@
+.grid{
+    display: grid;
+    grid-template-columns: repeat(3, 80px);
+    grid-template-rows: repeat(2,20px);
+gap: 20px;
+border: 2px solid black;
+height: 100hv;
+width: 400px;
+
+justify-content: center;
+align-items: center;
+
+}
+.box{
+    background-color: cadetblue;
+}
